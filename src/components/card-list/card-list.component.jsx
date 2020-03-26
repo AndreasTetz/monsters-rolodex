@@ -10,5 +10,5 @@ export const CardList = (props) => {
             )
             )
         }
-    </div>;
+    </div>
 };
